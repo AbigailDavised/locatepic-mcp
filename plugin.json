@@ -1,0 +1,22 @@
+{
+  "name": "locatepic",
+  "version": "1.0.1",
+  "description": "Official stateless MCP server for LocatePic.com — solar shadow latitude geometry, 6-dimension visual geolocation clues, and EXIF GPS privacy inspection.",
+  "homepage": "https://locatepic.com",
+  "repository": "https://github.com/AbigailDavised/locatepic-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "Abigail Davised",
+    "email": "admin@locatepic.com",
+    "url": "https://locatepic.com"
+  },
+  "keywords": [
+    "geolocation",
+    "exif",
+    "osint",
+    "solar-azimuth",
+    "privacy",
+    "photo-metadata",
+    "mcp"
+  ]
+}

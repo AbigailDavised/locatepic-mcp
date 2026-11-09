@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "locatepic": {
+      "type": "http",
+      "url": "https://locatepic.com/api/mcp"
+    }
+  }
+}
