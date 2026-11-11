@@ -1,4 +1,6 @@
-# 🧭 LocatePic MCP Server (`com.locatepic/mcp`)
+
+
+[![mcptry](https://mcptry.com/badge/com.locatepic/mcp)](https://mcptry.com/servers/com.locatepic/mcp)
 
 [![LocatePic Banner](./assets/cover.png)](https://locatepic.com)
 
