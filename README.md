@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.locatepic/mcp)](https://mcptry.com/servers/com.locatepic/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/locatepic-photo-geolocation-solar-shadow-osin-mcp/card.svg)](https://mcprush.com/to/locatepic-photo-geolocation-solar-shadow-osin-mcp?ref=badge)
 
 [![LocatePic Banner](./assets/cover.png)](https://locatepic.com)
 
